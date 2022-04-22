@@ -1,2 +1,3 @@
 def hello():
-	return "Olá, eu sou o membro1" #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+    # escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+    return "Olá, eu sou o Caio, tenho 18 anos, tenho como hobbies jogar jogos eletrônicos de diferentes tipos, jogar volei, ler e tocar piano e violão. Possuo um pouco de experiência com desenvolvimento de aplicações web e, mais recentemente, tenho tido contato com o framework React e Node.js; já possuia familiaridade com Python, mas a conheci melhor durante a disciplina de POO1; já utilizei Java e C, mas apenas o básico das linguagens. Quanto à disciplina, espero aprofundar meus conhecimentos sobre os conceitos da orientação à objetos, bem como boas práticas para o desenvolvimento de aplicações com tal paradigma."
